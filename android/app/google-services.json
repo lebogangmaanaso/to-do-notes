@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "581244823119",
+    "project_id": "to-do-note-31b8a",
+    "storage_bucket": "to-do-note-31b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581244823119:android:f14b2bb05a6c5edb94ec3a",
+        "android_client_info": {
+          "package_name": "com.example.to_do_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581244823119-q1ho55tobu1r4155udvotj88k4m4ej39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrzBjkDoCQ3Au5tHsRWMKrzYfhtkSY_WQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581244823119-q1ho55tobu1r4155udvotj88k4m4ej39.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581244823119-k5bjbmomu2mehqkto1iipj8lem7h2ii0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toDoNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
